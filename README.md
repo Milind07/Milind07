@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Milind07
 - 👀 I’m interested in connecting the dots
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Milind07
 
 <!---
